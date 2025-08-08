@@ -1,46 +1,28 @@
-\# Planejamento
+\# Power Platform Projects
 
 
 
-\*\*Tipo:\*\* Power App + Power Automate  
-
-\*\*Ambiente:\*\* Corporativo  
-
-\*\*Ano:\*\* 2025  
-
-\*\*Responsivo:\*\* Sim  
+Repositório com soluções desenvolvidas com Microsoft Power Platform: Power Apps, Power Automate e Power BI.
 
 
 
-\## Descrição
+\## Projetos
 
 
 
-Aplicativo para planejamento e acompanhamento das tarefas operacionais e administrativas da equipe. Desenvolvido para substituir o Microsoft Planner, permite o controle detalhado das atividades e do tempo de trabalho de cada colaborador.
+\- \[Planejamento](Planejamento/README.md): Aplicativo para planejamento e controle de tarefas, substituindo o Microsoft Planner.
+
+\- \[Check-In](Check-In/README.md): Controle populacional de colaboradores na operação portuária.
+
+\- \[Agendamento](Agendamento/README.md): Agendamento de estações de trabalho com planta baixa interativa.
+
+\- \[Fornecimento de Água](Fornecimento-de-Agua/README.md): Solicitação e assinatura digital de fornecimento de água para embarcações.
 
 
 
-\## Funcionalidades
+---
 
 
 
-\- Criação e acompanhamento de tarefas por tipo (operacional/admin)
-
-\- Registro e monitoramento do tempo de execução
-
-\- Interface responsiva para acesso por desktop e dispositivos móveis
-
-\- Integração com Microsoft 365 e SharePoint para armazenamento de dados
-
-
-
-\## Tecnologias
-
-
-
-\- Power Apps (Canvas App)
-
-\- Power Automate
-
-\- SharePoint
+📌 Todas as soluções foram exportadas em `.zip` e podem ser importadas diretamente em um ambiente da Power Platform.
 
