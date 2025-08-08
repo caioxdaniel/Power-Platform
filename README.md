@@ -1,14 +1,14 @@
-\# Agendamento de Estações
+\# Check-In
 
 
 
-\*\*Tipo:\*\* Power App + Power Automate
+\*\*Tipo:\*\* Power App + Power Automate  
 
-\*\*Ambiente:\*\* Corporativo
+\*\*Ambiente:\*\* Corporativo  
 
-\*\*Ano:\*\* 2025
+\*\*Ano:\*\* 2025  
 
-\*\*Responsivo:\*\* Não
+\*\*Responsivo:\*\* Sim  
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-Aplicativo para agendamento de estações de trabalho nos complexos operacionais, utilizando planta baixa como interface visual. O colaborador seleciona a baia disponível e reserva com base no local e data desejada.
+Aplicativo de controle populacional utilizado na operação portuária para registrar e visualizar a presença dos colaboradores em tempo real.
 
 
 
@@ -24,13 +24,13 @@ Aplicativo para agendamento de estações de trabalho nos complexos operacionais
 
 
 
-\- Visualização de planta baixa com ícones de disponibilidade
+\- Registro de entrada e saída de colaboradores
 
-\- Agendamento por colaborador, data e local
+\- Visualização em tempo real da ocupação da operação
 
-\- Regras de negócio para bloqueio de agendamento simultâneo
+\- Interface responsiva para uso em tablets e celulares
 
-\- Integração com SharePoint e Microsoft Outlook (opcional)
+\- Integração com SharePoint para base de dados e relatórios
 
 
 
