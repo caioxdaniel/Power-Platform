@@ -1,14 +1,14 @@
-\# Check-In
+\# Fornecimento de Água
 
 
 
-\*\*Tipo:\*\* Power App + Power Automate  
+\*\*Tipo:\*\* Power App + Power Automate + Integração com Adobe Sign  
 
 \*\*Ambiente:\*\* Corporativo  
 
 \*\*Ano:\*\* 2025  
 
-\*\*Responsivo:\*\* Sim  
+\*\*Responsivo:\*\* Não  
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-Aplicativo de controle populacional utilizado na operação portuária para registrar e visualizar a presença dos colaboradores em tempo real.
+Aplicativo utilizado para o fornecimento de água potável para embarcações e plataformas. Inclui a geração e assinatura de cautelas digitais com integração ao Adobe Sign, utilizando estrutura em HTML para formatação.
 
 
 
@@ -24,13 +24,13 @@ Aplicativo de controle populacional utilizado na operação portuária para regi
 
 
 
-\- Registro de entrada e saída de colaboradores
+\- Registro de solicitações de fornecimento
 
-\- Visualização em tempo real da ocupação da operação
+\- Geração de cautela em HTML personalizada
 
-\- Interface responsiva para uso em tablets e celulares
+\- Assinatura digital com Adobe Sign
 
-\- Integração com SharePoint para base de dados e relatórios
+\- Histórico de entregas e assinaturas
 
 
 
@@ -43,4 +43,6 @@ Aplicativo de controle populacional utilizado na operação portuária para regi
 \- Power Automate
 
 \- SharePoint
+
+\- Adobe Sign
 
