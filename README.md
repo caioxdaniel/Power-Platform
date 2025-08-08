@@ -1,14 +1,14 @@
-\# Fornecimento de Água
+\# Planejamento
 
 
 
-\*\*Tipo:\*\* Power App + Power Automate + Integração com Adobe Sign  
+\*\*Tipo:\*\* Power App + Power Automate  
 
 \*\*Ambiente:\*\* Corporativo  
 
 \*\*Ano:\*\* 2025  
 
-\*\*Responsivo:\*\* Não  
+\*\*Responsivo:\*\* Sim  
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-Aplicativo utilizado para o fornecimento de água potável para embarcações e plataformas. Inclui a geração e assinatura de cautelas digitais com integração ao Adobe Sign, utilizando estrutura em HTML para formatação.
+Aplicativo para planejamento e acompanhamento das tarefas operacionais e administrativas da equipe. Desenvolvido para substituir o Microsoft Planner, permite o controle detalhado das atividades e do tempo de trabalho de cada colaborador.
 
 
 
@@ -24,13 +24,13 @@ Aplicativo utilizado para o fornecimento de água potável para embarcações e 
 
 
 
-\- Registro de solicitações de fornecimento
+\- Criação e acompanhamento de tarefas por tipo (operacional/admin)
 
-\- Geração de cautela em HTML personalizada
+\- Registro e monitoramento do tempo de execução
 
-\- Assinatura digital com Adobe Sign
+\- Interface responsiva para acesso por desktop e dispositivos móveis
 
-\- Histórico de entregas e assinaturas
+\- Integração com Microsoft 365 e SharePoint para armazenamento de dados
 
 
 
@@ -43,6 +43,4 @@ Aplicativo utilizado para o fornecimento de água potável para embarcações e 
 \- Power Automate
 
 \- SharePoint
-
-\- Adobe Sign
 
